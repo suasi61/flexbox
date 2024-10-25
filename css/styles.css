@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: cadetblue;
+    background-color: #AF7F00;
 }
 .tab-container-1{
     display: flex;
     width: 100%; 
-    background-color: rgb(245, 0, 0);
+    background-color:#302B2A;
     justify-content: center;
     align-items: center; 
     gap: 30px; 
